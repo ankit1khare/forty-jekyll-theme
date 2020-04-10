@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Introduction
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Invest a little time everyday and have the luxury of feeling good and facing whatever comes in front.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
