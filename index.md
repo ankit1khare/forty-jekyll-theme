@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Build YOUR Best Self'
+description: All about building your body and staying healthy
 image: null
-author: null
+author: No Charges No credit
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Health is wealth. Good health is not optional it is a requirement that precedes anything and everything else. This blog is all
+about curating content that is millions of miles away from Myth and closest to facts and figures.
